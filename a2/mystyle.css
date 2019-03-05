@@ -1,0 +1,40 @@
+body {
+	background-color: red;
+	}
+
+h1 {
+
+	color: blue;
+	font-family: 'Anton', sans-serif;
+	text-align: center;
+
+	
+}
+/* applied shadow below! */
+
+i {
+
+	font-family: 'Source Code Pro', monospace;
+	text-shadow: 2px 2px #ff0000;
+}
+
+a {
+
+	font-family: 'Bree Serif', serif;;
+}
+
+b {
+
+	background-color: lightblue
+}
+
+address {
+	background-color: grey
+}
+
+
+
+p {
+	text-align: center;
+}
+
