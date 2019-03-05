@@ -38,3 +38,38 @@ p {
 	text-align: center;
 }
 
+#para1 {
+  text-align: center;
+  color: white;
+}
+#para2 {
+  text-align: center;
+  color: blue;
+}
+
+li.class {
+  background:white;
+}
+
+li.dog {
+  font-family: 'Coiny', cursive;
+}
+
+li.cat {
+  background-color: green
+
+}
+
+li.bunny {
+  background-color: white
+}
+
+a {
+  color: white;
+  text-decoration: none; }
+
+a:hover {color: blue;
+
+}
+
+
