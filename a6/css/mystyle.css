@@ -1,0 +1,19 @@
+body{
+
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+	background-color: lightpink;
+}
+
+ul{
+	list-style: none;
+}
+
+#slide2{
+	background-image: url("images/city.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+
+
